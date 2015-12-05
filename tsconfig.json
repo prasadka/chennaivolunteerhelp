@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "removeComments": true,
+        "out": "build/app.js",
+        "sourceMap": true
+    },
+    "files": [
+        "app/aid.ts",
+        "app/app.ts",
+        "typings/google.maps.d.ts"
+    ]
+}
